@@ -1,0 +1,59 @@
+{
+    "binary": [
+        {
+            "name": "Sex01",
+            "a": "Male",
+            "b": "Female"
+        }
+    ],
+    "binomial": [
+        {
+            "name": "Weight01",
+            "aa": "Overweight",
+            "ab": "Overweight",
+            "bb": "Thin"
+        },
+        {
+            "name": "Teeth01",
+            "aa": "BigTeeth",
+            "ab": "SmallTeeth",
+            "bb": "SmallTeeth"
+        },
+        {
+            "name": "Personality01",
+            "aa": "Intelligent",
+            "ab": "Null",
+            "bb": "Null"
+        },
+        {
+            "name": "Personality02",
+            "aa": "Aggressive",
+            "ab": "Null",
+            "bb": "Docile"
+        },
+        {
+            "name": "Feet01",
+            "aa": "ElephantFeet",
+            "ab": "ToedFeet",
+            "bb": "WebbedFeet"
+        },
+        {
+            "name": "Tail01",
+            "aa": "LongTail",
+            "ab": "ShortTail",
+            "bb": "NoTail"
+        },
+        {
+            "name": "Color01",
+            "aa": "BlueColor",
+            "ab": "PurpleColor",
+            "bb": "RedColor"
+        },
+        {
+            "name": "Color02",
+            "aa": "GreenAccent",
+            "ab": "Null",
+            "bb": "Null"
+        }
+    ]
+}
